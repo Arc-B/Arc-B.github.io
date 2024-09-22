@@ -1,0 +1,15 @@
+
+{
+    "projects": [
+        {
+            "name": "Automating Residential Security during COVID-19",
+            "description": "Developed a touchless temperature sensing and outsider recognition system using AWS tools and IoT.",
+            "technologies": "AWS Rekognition, SageMaker, Flask, IoT"
+        },
+        {
+            "name": "Object Detection and Data Analysis on Aerial Data",
+            "description": "Built MobileNet SSD models to detect potential threats in drone videos.",
+            "technologies": "TensorFlow, Keras, OpenCV"
+        }
+    ]
+}
